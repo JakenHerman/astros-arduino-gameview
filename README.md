@@ -17,6 +17,14 @@ A physical Houston Astros scoreboard built on an Arduino Mega. A Python script p
 
 ![Diagram](astros-viewer-diagram.png)
 
+## IRL
+
+| Build photo 1 | Build photo 2 |
+|---|---|
+| ![IRL build photo 1](irl.jpeg) | ![IRL build photo 2](irl2.jpeg) |
+
+*what this unholy mess looks like IRL*
+
 ## Software
 
 **`astros_live.py`** — fetches today's Astros game from the MLB Stats API and sends a JSON packet over serial once every 15 seconds.
